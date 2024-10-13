@@ -8,7 +8,8 @@ title: Home
 Hello Everyone! My name is Samuel Fang, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor. 
 I post my personal projects and writing here for anybody interested in my work and analysis.
 
-***
+![My Headshot](headshot.jpg)
+
 ***
 
 # My Work at the National Institutes of Health
