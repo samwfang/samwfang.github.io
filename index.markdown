@@ -7,7 +7,7 @@ title: Home
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div>
     <h2> This is Me! </h2>
-    <img src="headshot.jpg" alt="headshot" width="200"/>
+    <img src="headshot.jpg" alt="headshot" width="300" height="300"/>
   </div>
   <div style="text-align: center;">
     <h2>Download My Resume</h2>
