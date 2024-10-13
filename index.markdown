@@ -4,17 +4,18 @@ title: Home
 ---
 # Samuel Fang
 
-<img src="headshot.jpg" alt="headshot" width="200"/>
-
-<div style="text-align: center;">
-  <h2>Download My Resume</h2>
-  <a href="resume.pdf" download="samwfang_resume.pdf">
-    <img src="resumeshot.png" alt="Preview of Resume" style="width:300px; height:auto; border:1px solid #ccc;" />
-    <br />
-    <button style="margin-top: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
-      Download Resume
-    </button>
-  </a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <h2> This is Me! </h2>
+    <img src="headshot.jpg" alt="headshot" width="200"/>
+  </div>
+  <div style="text-align: center;">
+    <h2>Download My Resume</h2>
+    <a href="resume.pdf" download="samwfang_resume.pdf">
+      <img src="resumeshot.png" alt="Preview of Resume" style="width:300px; height:auto; border:1px solid #ccc;" />
+      <br />
+    </a>
+  </div>
 </div>
 
 Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor. 
