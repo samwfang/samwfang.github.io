@@ -8,8 +8,8 @@ title: Home
 
 <div style="text-align: center;">
   <h2>Download My Resume</h2>
-  <a href="samFang_Resume_FINAL2.pdf" download="YourName_Resume.pdf">
-    <img src="resumeshot.jpg" alt="Preview of Resume" style="width:300px; height:auto; border:1px solid #ccc;" />
+  <a href="resume.pdf" download="samwfang_resume.pdf">
+    <img src="resumeshot.png" alt="Preview of Resume" style="width:300px; height:auto; border:1px solid #ccc;" />
     <br />
     <button style="margin-top: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
       Download Resume
