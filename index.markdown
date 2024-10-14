@@ -38,7 +38,7 @@ title: Home
   <div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h2>Download My Resume</h2>
     <a href="resume.pdf" download="samwfang_resume.pdf">
-      <img src="resumeshot.png" alt="Preview of Resume" style="width:300px; height:auto; border:1px solid #ccc;" />
+      <img src="resumeshot.png" alt="Preview of Resume" style="width:150px; height:auto; border:1px solid #ccc;" />
       <br />
     </a>
   </div>
@@ -48,6 +48,29 @@ title: Home
 
 ***
 
+<div class="project-showcase">
+        <div class="project">
+            <div class="project-image">
+                <img src="project1.jpg" alt="Project 1">
+            </div>
+            <div class="project-summary">
+                <h3>Project Title 1</h3>
+                <p>This is a brief summary of Project 1. It explains what the project is about and its significance.</p>
+                <a href="project1-details.html" class="project-link">Learn More</a>
+            </div>
+        </div>
+        <div class="project">
+            <div class="project-image">
+                <img src="project2.jpg" alt="Project 2">
+            </div>
+            <div class="project-summary">
+                <h3>Project Title 2</h3>
+                <p>This is a brief summary of Project 2. It explains what the project is about and its significance.</p>
+                <a href="project2-details.html" class="project-link">Learn More</a>
+            </div>
+        </div>
+      <!-- Add more projects as needed -->
+    </div>
 
 
 # My Work at the National Institutes of Health \(2024\)
