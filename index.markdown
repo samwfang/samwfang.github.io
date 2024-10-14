@@ -61,8 +61,12 @@ title: Home
                     <img src="posterslide.png" alt="Project 1">
                 </div>
                 <div class="project-summary">
-                    <h2>Project Title 1</h2>
-                    <p>This is a brief summary of Project 1. It explains what the project is about and its significance.</p>
+                    <h2>NIH-NLM Summer Internship 2024</h2>
+                    <h3>Drug Discovery Through Decoding Gene Regulation Systems</h3>
+                    <p>Drug Repurposing is the study and process of analyzing the behavior of these compounds (which are ideally already FDA certified) 
+to treat diseases or inducing certain effects by offsetting the gene dysregulation which is correlated with that disease. 
+For example, Semaglutide (aka Ozempic) was used originally for treatment of diabetes, but was repurposed as a weight loss 
+medication due to affecting expression of genes correlated with appetite management. </p>
                     <a href="project1-details.html" class="project-link">Learn More</a>
                 </div>
             </div>
