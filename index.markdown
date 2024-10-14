@@ -24,14 +24,11 @@ title: Home
     <h2> This is Me! </h2>
     <img src="headshot.jpg" alt="headshot" width="300" height="300"/>
   </div>
+  <div style="max-width: 600px;">
+    <p>Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor.</p>
+    <p>I post my personal projects and writing here for anybody interested in my work and analysis.</p>
+  </div>
 </div>
-
-
-<br><br>
-
-
-Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor. 
-I post my personal projects and writing here for anybody interested in my work and analysis.
 
 
 
