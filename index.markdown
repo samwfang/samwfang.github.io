@@ -27,7 +27,7 @@ title: Home
   <div style="max-width: 500px;">
     <p>Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor. I am hoping to be able to apply my knowledge and experience to be able to contribute to innovative ideas and projects, by working with logic and solving problems with simple, but elegant methods. I’ve worked on a large array of different projects pertaining to different skill sets, including writing code at the assembly level, writing OS code in C, designing machine learning models in Python, and implementing different algorithms and data structures in C++.</p>
     <p>I post my personal projects and writing here for anybody interested in my work and analysis.</p>
-    <p>Please Feel Free To Contact Me At <b>swfang@umich.edu<b> or on </p><a href="https://www.linkedin.com/in/samuel-fang-295845227/">LinkedIn</a>. 
+    <p>Please Feel Free To Contact Me At <b>swfang@umich.edu</b> or on </p><a href="https://www.linkedin.com/in/samuel-fang-295845227/">LinkedIn</a>. 
   </div>
 </div>
 
