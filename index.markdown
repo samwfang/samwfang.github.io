@@ -4,27 +4,15 @@ title: Home
 ---
 <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
 
-## Table of Contents
-- [About Me](#Samuel_Fang)
-
-
-
-### Software Development
-- [Visual Novel and Engine: Unity Project](#unity)
-
-### Machine Learning In Biology and Health
-- [NIH-NLM: Drug Discovery Through Decoding Gene Regulation Systems](#my-work-at-the-national-institutes-of-health-2024)
-- [My Work at the NIH (2023)](#my-work-at-the-national-institutes-of-health-2023)
-- [My Work at Dr. Jiang's Research Lab](#my-work-at-dr-jiangs-research-lab)
-
-
-***
 # Samuel Fang
 
 <div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; align-items: center; gap: 20px;">
   <div>
     <h2> This is Me! </h2>
     <img src="headshot.jpg" alt="headshot" width="150" height="150"/>
+    <a href="resume.pdf" download="samwfang_resume.pdf">
+      <img src="resumeshot.png" alt="Preview of Resume" style="width:150px; height:auto; border:1px solid #ccc;" />
+    </a>
   </div>
   <div style="max-width: 500px;">
     <p>Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor.</p> 
@@ -33,20 +21,6 @@ title: Home
     <p>Please Feel Free To Contact Me At <b>swfang@umich.edu</b> or on <a href="https://www.linkedin.com/in/samuel-fang-295845227/">LinkedIn</a>.</p>
   </div>
 </div>
-
-
-
-<div style="text-align: center;">
-  <div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-    <h2>Download My Resume</h2>
-    <a href="resume.pdf" download="samwfang_resume.pdf">
-      <img src="resumeshot.png" alt="Preview of Resume" style="width:150px; height:auto; border:1px solid #ccc;" />
-      <br />
-    </a>
-  </div>
-  </div>
-
-
 
 ***
 
