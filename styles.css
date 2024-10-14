@@ -17,7 +17,8 @@ body {
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     margin: 15px;
-    width: 80%; /* Adjust as needed */
+    width: 100%; /* Adjust as needed */
+    max-width: 800px;
     overflow: hidden; /* Ensures rounded corners work properly */
 }
 
