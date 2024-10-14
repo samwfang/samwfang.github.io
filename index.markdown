@@ -50,14 +50,18 @@ title: Home
 
 ***
 
+<div style="text-align:center;">
+<h1>Personal Projects and Experience Summary</h1>
+</div>
+
 <div class="project-showcase">
         <div class="project-box"> <!-- New box for each project -->
             <div class="project">
                 <div class="project-image">
-                    <img src="project1.jpg" alt="Project 1">
+                    <img src="posterslide.png" alt="Project 1">
                 </div>
                 <div class="project-summary">
-                    <h3>Project Title 1</h3>
+                    <h2>Project Title 1</h2>
                     <p>This is a brief summary of Project 1. It explains what the project is about and its significance.</p>
                     <a href="project1-details.html" class="project-link">Learn More</a>
                 </div>
