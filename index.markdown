@@ -49,27 +49,31 @@ title: Home
 ***
 
 <div class="project-showcase">
-        <div class="project">
-            <div class="project-image">
-                <img src="project1.jpg" alt="Project 1">
-            </div>
-            <div class="project-summary">
-                <h3>Project Title 1</h3>
-                <p>This is a brief summary of Project 1. It explains what the project is about and its significance.</p>
-                <a href="project1-details.html" class="project-link">Learn More</a>
-            </div>
-        </div>
-        <div class="project">
-            <div class="project-image">
-                <img src="project2.jpg" alt="Project 2">
-            </div>
-            <div class="project-summary">
-                <h3>Project Title 2</h3>
-                <p>This is a brief summary of Project 2. It explains what the project is about and its significance.</p>
-                <a href="project2-details.html" class="project-link">Learn More</a>
+        <div class="project-box"> <!-- New box for each project -->
+            <div class="project">
+                <div class="project-image">
+                    <img src="project1.jpg" alt="Project 1">
+                </div>
+                <div class="project-summary">
+                    <h3>Project Title 1</h3>
+                    <p>This is a brief summary of Project 1. It explains what the project is about and its significance.</p>
+                    <a href="project1-details.html" class="project-link">Learn More</a>
+                </div>
             </div>
         </div>
-      <!-- Add more projects as needed -->
+        <div class="project-box"> <!-- New box for each project -->
+            <div class="project">
+                <div class="project-image">
+                    <img src="project2.jpg" alt="Project 2">
+                </div>
+                <div class="project-summary">
+                    <h3>Project Title 2</h3>
+                    <p>This is a brief summary of Project 2. It explains what the project is about and its significance.</p>
+                    <a href="project2-details.html" class="project-link">Learn More</a>
+                </div>
+            </div>
+        </div>
+        <!-- Add more projects as needed -->
     </div>
 
 

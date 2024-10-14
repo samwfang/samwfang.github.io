@@ -12,14 +12,17 @@ body {
     padding: 20px;
 }
 
-.project {
-    display: flex;
-    background-color: #fff;
+.project-box {
+    background-color: #fff; /* Background for the project box */
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     margin: 15px;
     width: 80%; /* Adjust as needed */
-    overflow: hidden;
+    overflow: hidden; /* Ensures rounded corners work properly */
+}
+
+.project {
+    display: flex;
 }
 
 .project-image {
