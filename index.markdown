@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+<link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
+
 ## Table of Contents
 - [About Me](#Samuel_Fang)
 
@@ -47,7 +49,7 @@ title: Home
 
 
 ***
-<link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
+
 <div class="project-showcase">
         <div class="project-box"> <!-- New box for each project -->
             <div class="project">
