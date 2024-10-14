@@ -27,7 +27,7 @@ title: Home
 </div>
 
 
-
+<br><br>
 
 
 Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor. 
@@ -35,19 +35,23 @@ I post my personal projects and writing here for anybody interested in my work a
 
 
 
+<br><br>
 
 
 <div style="text-align: center;">
+  <div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h2>Download My Resume</h2>
     <a href="resume.pdf" download="samwfang_resume.pdf">
       <img src="resumeshot.png" alt="Preview of Resume" style="width:300px; height:auto; border:1px solid #ccc;" />
       <br />
     </a>
   </div>
+  </div>
 
+<br>
 ***
 
-
+<br>
 
 
 # My Work at the National Institutes of Health \(2024\)
