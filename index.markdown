@@ -53,7 +53,7 @@ title: Home
 # My Work at the National Institutes of Health \(2024\)
 ## Dr. Ovcharenko Research Lab: Drug Discovery Through Decoding Gene Regulation Systems
 
-<div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; align-items: center; gap: 20px;">
+<div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; gap: 20px;">
       <img src="posterday.jpg" alt="poster" width="600"/>
 
 <i>Acknowledgements: I want to thank Dr. Di Huang, Dr. Ivan Ovcharenko, and the rest of the lab over the summer 
