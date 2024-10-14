@@ -2,6 +2,21 @@
 layout: default
 title: Home
 ---
+## Table of Contents
+- [About Me](#Samuel_Fang)
+
+
+
+### Software Development
+- [Visual Novel and Engine: Unity Project](#unity)
+
+### Machine Learning In Biology and Health
+- [NIH-NLM: Drug Discovery Through Decoding Gene Regulation Systems](#my-work-at-the-national-institutes-of-health-2024)
+- [My Work at the NIH (2023)](#my-work-at-the-national-institutes-of-health-2023)
+- [My Work at Dr. Jiang's Research Lab](#my-work-at-dr-jiangs-research-lab)
+
+
+***
 # Samuel Fang
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -32,21 +47,7 @@ I post my personal projects and writing here for anybody interested in my work a
 
 ***
 
-## Table of Contents
-- [About Me](#Samuel_Fang)
 
-
-
-### Software Development
-- [Visual Novel and Engine: Unity Project](#unity)
-
-### Machine Learning In Biology and Health
-- [NIH-NLM: Drug Discovery Through Decoding Gene Regulation Systems](#my-work-at-the-national-institutes-of-health-2024)
-- [My Work at the NIH (2023)](#my-work-at-the-national-institutes-of-health-2023)
-- [My Work at Dr. Jiang's Research Lab](#my-work-at-dr-jiangs-research-lab)
-
-
-***
 
 
 # My Work at the National Institutes of Health \(2024\)
