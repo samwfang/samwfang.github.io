@@ -11,12 +11,16 @@ title: Home
   </div>
 </div>
 
-***
+
+
+
 
 Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor. 
 I post my personal projects and writing here for anybody interested in my work and analysis.
 
-***
+
+
+
 
 <div style="text-align: center;">
     <h2>Download My Resume</h2>
