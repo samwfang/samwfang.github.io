@@ -24,7 +24,7 @@ title: Home
     <h2> This is Me! </h2>
     <img src="headshot.jpg" alt="headshot" width="150" height="150"/>
   </div>
-  <div style="max-width: 600px;">
+  <div style="max-width: 450px;">
     <p>Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor.</p>
     <p>I post my personal projects and writing here for anybody interested in my work and analysis.</p>
   </div>
