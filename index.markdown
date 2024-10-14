@@ -23,10 +23,10 @@ title: Home
   <div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h2> This is Me! </h2>
     <img src="headshot.jpg" alt="headshot" width="150" height="150"/>
+  </div>
   <div style="max-width: 600px;">
     <p>Hello Everyone! My name is <b>Samuel Fang</b>, and I am a Senior Undergraduate Computer Science student at the University of Michigan Ann Arbor.</p>
     <p>I post my personal projects and writing here for anybody interested in my work and analysis.</p>
-  </div>
   </div>
 </div>
 
