@@ -44,34 +44,34 @@ title: Home
   </div>
   </div>
 
-<br/>
+
 
 ***
 
-<br/>
 
 
 # My Work at the National Institutes of Health \(2024\)
 ## Dr. Ovcharenko Research Lab: Drug Discovery Through Decoding Gene Regulation Systems
 
-<div style="text-align: center;">
+<div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; align-items: center; gap: 20px;">
       <img src="posterday.jpg" alt="poster" width="600"/>
-</div>
 
 <i>Acknowledgements: I want to thank Dr. Di Huang, Dr. Ivan Ovcharenko, and the rest of the lab over the summer 
 for helping me out on my first large-scale research project and in-person poster presentation! I felt like I gained 
 so much knowledge not only about Machine Learning (including my first hands-on work with Transformers and BERT models) 
 and Genetics, but also about Research, Reading Papers, and Presenting in general! </i>
 
+I presented this poster and my work on NIH Poster Day on August 1st, 2024 and NLM Poster Day on August 2nd, 2024.
+</div>
 
 
 ### See My Poster!
-
+<div style="border-radius: 15px; border: 2px solid #ccc; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; align-items: center; gap: 20px;">
 <a href="posterslide.pdf" download="samwfang_nih_poster.pdf">
       <img src="posterslide.png" alt="Poster" style="width:600px; height:auto; border:1px solid #ccc;" />
 </a>
+</div>
 
-I presented this poster and my work on NIH Poster Day on August 1st, 2024 and NLM Poster Day on August 2nd, 2024.
 
 ### Summary
 
