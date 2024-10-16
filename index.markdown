@@ -51,9 +51,13 @@ medication due to affecting expression of genes correlated with appetite managem
                     <img src="project2.jpg" alt="Project 2">
                 </div>
                 <div class="project-summary">
-                    <h3>Project Title 2</h3>
-                    <p>This is a brief summary of Project 2. It explains what the project is about and its significance.</p>
-                    <a href="project2-details.html" class="project-link">Learn More</a>
+                    <h2>Unity Visual Novel Engine and Game</h2>
+                    <h3>Chopin Remembered: Musical Novel Project</h3>
+                    <p>In the college town of May Meadows in Mishigami, Sam is a prospective
+                    pianist who is feeling increasingly downtrodden and pessimistic about her
+                    path forward in music. One day, she meets a fellow pianist-Fred-who she sees as everything she isn't: carefree, always smiling, and to top it off, a musical genius. However, as she gets to know him better, Sam realizes that perhaps there may be more to Fred than first meets the eye...</p>
+                    <a class="project-link-wip">Currently WIP</a>
+                    <a href="project2-details.html" class="project-link">Documentation</a>
                 </div>
             </div>
         </div>
