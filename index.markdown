@@ -51,12 +51,10 @@ medication due to affecting expression of genes correlated with appetite managem
                     <img src="project2.jpg" alt="Project 2">
                 </div>
                 <div class="project-summary">
-                    <h2>Unity Visual Novel Engine and Game</h2>
-                    <h3>Chopin Remembered: Musical Novel Project</h3>
-                    <p>In the college town of May Meadows in Mishigami, Sam is a prospective
-                    pianist who is feeling increasingly downtrodden and pessimistic about her
-                    path forward in music. One day, she meets a fellow pianist-Fred-who she sees as everything she isn't: carefree, always smiling, and to top it off, a musical genius. However, as she gets to know him better, Sam realizes that perhaps there may be more to Fred than first meets the eye...</p>
-                    <a class="project-link-wip">Currently WIP</a>
+                    <h2>UniDB</h2>
+                    <h3>Education and College Web Appt</h3>
+                    <p>Currently a work in progress. Leverages TypeScript, PostGreSQL, Python, and AI LLM which allows users to find and sort info about universities and faculty members as a helper for their application process. </p>
+                    <a class="project-link-wip">Projected Release: End Of Year 2025</a>
                     <a href="project2-details.html" class="project-link">Documentation</a>
                 </div>
             </div>
