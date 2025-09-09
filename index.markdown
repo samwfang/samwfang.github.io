@@ -52,7 +52,7 @@ medication due to affecting expression of genes correlated with appetite managem
                 </div>
                 <div class="project-summary">
                     <h2>UniDB</h2>
-                    <h3>Education and College Web Appt</h3>
+                    <h3>Education and College Web App</h3>
                     <p>Currently a work in progress. Leverages TypeScript, PostGreSQL, Python, and AI LLM which allows users to find and sort info about universities and faculty members as a helper for their application process. </p>
                     <a class="project-link-wip">Projected Release: End Of Year 2025</a>
                     <a href="https://github.com/samwfang/unidb" class="project-link">Github Page</a>
