@@ -48,14 +48,14 @@ medication due to affecting expression of genes correlated with appetite managem
         <div class="project-box"> <!-- New box for each project -->
             <div class="project">
                 <div class="project-image">
-                    <img src="project2.jpg" alt="Project 2">
+                    <img src="image copy.png" alt="Project 2">
                 </div>
                 <div class="project-summary">
                     <h2>UniDB</h2>
                     <h3>Education and College Web Appt</h3>
                     <p>Currently a work in progress. Leverages TypeScript, PostGreSQL, Python, and AI LLM which allows users to find and sort info about universities and faculty members as a helper for their application process. </p>
                     <a class="project-link-wip">Projected Release: End Of Year 2025</a>
-                    <a href="project2-details.html" class="project-link">Documentation</a>
+                    <a href="https://github.com/samwfang/unidb" class="project-link">Github Page</a>
                 </div>
             </div>
         </div>
